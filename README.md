@@ -30,5 +30,6 @@ Welcome to my GitHub! I'm a recent graduate with a Master's in Computer Science 
 
 ## 📫 Connect with me
 - LinkedIn: [Chenchen Zhang](https://www.linkedin.com/in/chenchen-zhang-5149b7228/)
+<img src="https://github.com/stardust026/stardust026/blob/0d47c4db81d242449017e15e7f101914ac216895/00004-2635445464.png" alt="QRcode" title="Image Title" width="400" height="400">
 
 Check out my projects below, and feel free to reach out if you'd like to collaborate or chat about new ideas!
