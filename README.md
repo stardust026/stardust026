@@ -1,6 +1,6 @@
 # Hi, I'm Steven Zhang (Chenchen Zhang) 👋
 
-Welcome to my GitHub! I'm a recent graduate with a Master's in Computer Science from Northeastern University, Vancouver. I love solving complex problems and have developed projects in areas like retrieval-augmented generation (RAG), data visualization, and algorithm optimization.
+Welcome to my GitHub! I'm a recent graduate with a Master's in Computer Science from Northeastern University, Vancouver. I love solving complex problems and have developed projects in areas like web development, retrieval-augmented generation (RAG), data visualization, and algorithm optimization.
 
 ## 🚀 Personal Projects
 
@@ -27,6 +27,7 @@ Welcome to my GitHub! I'm a recent graduate with a Master's in Computer Science 
 ## 🌱 I'm currently learning
 - Advanced techniques in machine learning and data analysis.
 - Enhancing my skills with large language models (LLMs) and scalable system architectures.
+- Preparing my ACCA Audit and Assurance exam
 
 ## 📫 Connect with me
 - LinkedIn: [Chenchen Zhang](https://www.linkedin.com/in/chenchen-zhang-5149b7228/)
